@@ -1,0 +1,1 @@
+python mean_sift.py image/1.png
